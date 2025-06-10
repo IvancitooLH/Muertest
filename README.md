@@ -50,6 +50,13 @@ npm run dev
 yarn dev
 ```
 
+--Nota:
+Si en dado caso no te agarra el proyecto desde la terminal de vsc procede a copiar y pegar el proximo comando en la terminal de vsc
+
+```bash
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+```
+
 El proyecto estará disponible en: [http://localhost:5173](http://localhost:5173)
 
 ---
