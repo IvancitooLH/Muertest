@@ -47,7 +47,7 @@ const WarningScreen: React.FC<Props> = ({ onAccept, onExit }) => {
           SÍ
         </button>
         <button
-          onClick={onExit}
+          onClick={window.close}
           className="bg-gray-600 hover:bg-gray-500 w-24 px-4 py-2 rounded-lg"
         >
           SALIR
