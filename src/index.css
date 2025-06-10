@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'CarolloPlayscript';
+    src: url('/src/assets/fonts/The Ampersand Forest - Carollo Playscript Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CarolloPlayscript';
+    src: url('/src/assets/fonts/The Ampersand Forest - Carollo Playscript Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
