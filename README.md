@@ -20,7 +20,7 @@
 Abre una terminal y ejecuta:
 
 ```bash
-git clone https://github.com/tu-usuario/muertest.git
+git clone https://github.com/IvancitooLH/Muertest.git
 cd muertest
 ```
 
